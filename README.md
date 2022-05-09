@@ -8,7 +8,7 @@
 　![Takushoku University](hachioji.jpg "八王子国際キャンパス")
 1. 工学部
 
--  学科
+-  学科　
 
 ## 情報工学科
 
